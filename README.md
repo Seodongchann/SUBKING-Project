@@ -36,19 +36,19 @@
 ## Contents
 
 - [cart](https://github.com/Seodongchann/SUBKING-Project/tree/main/java/kr/co/subking/cart)
-<br>
+
 
 - [custom](https://github.com/Seodongchann/SUBKING-Project/tree/main/java/kr/co/subking/custom)
-<br>
+
 
 - [ingredients](https://github.com/Seodongchann/SUBKING-Project/tree/main/java/kr/co/subking/ingredients)
-<br>
+
 
 - [login](https://github.com/Seodongchann/SUBKING-Project/tree/main/java/kr/co/subking/login)
-<br>
+
 
 - [menu](https://github.com/Seodongchann/SUBKING-Project/tree/main/java/kr/co/subking/menu)
-<br>
+
 
 - [orders](https://github.com/Seodongchann/SUBKING-Project/tree/main/java/kr/co/subking/orders)
 
@@ -66,11 +66,14 @@
 
 ## What is?
 
--   프로젝트 탄생배경, 목적, 역사 등을 서술합니다.
+-   SUYWAY + BURGERKING 에서 영감을 받아 제작한 브랜드
 
 ## Key Features
 
-- 핵심 기능 서술하기 위해 텍스트, 하이퍼링크와 스크린샷, 도표 등을 첨부해주세요.
+- [회원가입 페이지](https://github.com/user-attachments/assets/1316c6d8-3886-47ac-b7fa-27b2a066ecbe)
+
+- ![카카오 로그인](https://github.com/user-attachments/assets/0163f9fd-4eda-486e-b998-cc5d012e2256)
+> 카카오톡으로 로그인연동은 되지않지만 그 전까지 구현 완료.
 
 > [!TIP]
 > 헤딩, 단락, 링크 및 도표, 목록, 인용 코드, 체크박스 작성법 등을 알아보세요
