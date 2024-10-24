@@ -1,6 +1,6 @@
 ![logo](https://github.com/user-attachments/assets/519acc0d-2b68-4410-bf15-05df2d098d6c)
 <h1 align="center">
-  README.md SUBKING PROJECT
+  SUBKING PROJECT
 </h1>
 <p align="center">간단한 소개글을 적어주세요</p>
 <p align="center">직접 마크업(HTML 사용가능), 마크다운을 작성하거나</p>
