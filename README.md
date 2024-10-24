@@ -1,5 +1,5 @@
-<img src = "https://github.com/user-attachments/assets/519acc0d-2b68-4410-bf15-05df2d098d6c" width="200" height="400"/>
 <h1 align="center">
+<img src = "https://github.com/user-attachments/assets/519acc0d-2b68-4410-bf15-05df2d098d6c" width="400" height="400"/>
   SUBKING PROJECT
 </h1>
 <p align="center">간단한 소개글을 적어주세요</p>
