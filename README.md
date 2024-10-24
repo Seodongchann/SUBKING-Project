@@ -13,7 +13,9 @@
 -   SUBWAY + BURGERKING 에서 영감을 받아 제작한 브랜드
 
 ## Role
-![역할분담](https://github.com/user-attachments/assets/1665f9a3-6bd3-4bc5-918f-b0df5a54263d)
+![역할분담](https://github.com/user-attachments/assets/d008f084-6ead-4e12-b18d-cdf27375025f) ![image](https://github.com/user-attachments/assets/cefa3ac9-ee0d-4ba7-9c81-d4e2577eadf6)
+
+
 
 <div align="left">
   <h2>📚 STACKS</h2>
@@ -66,32 +68,13 @@
 
 **SpreadSheet**
 - 데이터베이스 ERD 설정 전 필요한 테이블, 속성 값, PK, FK 등을 작성하며 추가/삭제
-[user_order]
+
 <img src = https://github.com/user-attachments/assets/86223cf0-a47c-4d05-bd7c-f2db46ecdbc7>
 
+**PPT**
+- 웹페이지 구상, 방향성 설정 
+![image](https://github.com/user-attachments/assets/49fe2a8c-1cef-4df1-8bf0-4d96deb0e454)
 
-> To clone and run this application,
-> you'll need [Git](https://git-scm.com)
-> and [download Maven](https://maven.apache.org/download.cgi)
-> Maven is a Java tool, so you must have Java installed in order to proceed. Set the JAVA_HOME environment variable pointing to your JDK installation or have the java executable on your PATH.
->
-> From your command line:
-
-```bash
-# Clone this repository
-$ git clone https://github.com/username/app-repository
-
-# Go into the repository
-$ cd app-repository
-
-# Install dependencies
-$ maven package
-
-# Run the app
-$ java -cp target/my-app-1.0-SNAPSHOT.jar com.mycompany.app.App
-```
-
-> **Note** > [Oracle JDK](https://www.oracle.com/java/technologies/downloads/) or use OpenJDK.
 
 ## Repository Structure
 
