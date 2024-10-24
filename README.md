@@ -68,10 +68,14 @@
    5. ERD 활용   : 엔터티-관계 다이어그램을 기반으로 테이블 간의 외래키 관계를 검증하여 데이터베이스의 무결성 유지 
    6. Mapper 작성 및 실시간 입출력 테스트
 
+
+
 **SpreadSheet**
 - 데이터베이스 ERD 설정 전 필요한 테이블, 속성 값, PK, FK 등을 작성하며 추가/삭제
 
 <img src = https://github.com/user-attachments/assets/86223cf0-a47c-4d05-bd7c-f2db46ecdbc7>
+
+
 
 **PPT**
 - 웹페이지 구상, 방향성 설정 
