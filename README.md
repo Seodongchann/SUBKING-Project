@@ -69,12 +69,12 @@
 -   SUYWAY + BURGERKING 에서 영감을 받아 제작한 브랜드
 
 ## Key Features
-> - 네이버 회원가입을 참고해서 제작.
+> **네이버 회원가입을 참고해서 제작.**
 
 > ![회원가입 페이지](https://github.com/user-attachments/assets/1b0b527a-9a7e-4024-856a-6b0c3a4edd74)
 
 
-> 카카오톡으로 로그인연동은 되지않지만 그 전까지 구현 완료.
+> **카카오톡으로 로그인연동은 되지않지만 그 전까지 구현 완료.**
 
 > ![카카오 로그인](https://github.com/user-attachments/assets/0163f9fd-4eda-486e-b998-cc5d012e2256)
 
