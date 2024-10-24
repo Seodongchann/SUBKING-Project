@@ -116,7 +116,6 @@
     
 ## Authors
 
-* GitHub [@깃허브 프로필 페이지](https://github.com/Seodongchann)
 
 > 다음과 같은 profile을 사용하고자 한다면 아래 링크들을 활용해보세요
 >
