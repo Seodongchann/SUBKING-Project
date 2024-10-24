@@ -98,12 +98,19 @@
 
 ## ToDo
 
--   로드맵 서술. 체크 박스 등 활용
+-   내가 구현한 기능
 
-*   [x] Add Changelog
-*   [x] Add back to top links
-*   [ ] Multi-language Support
-    -   [ ] English
+*   [O] 회원가입
+*   [O] 로그인
+*   [X] 상품추가
+*   [X] 기본 커스텀
+*   [X] 매출 확인
+*   [X] 상품 커스텀(주문)
+*   [X] 장바구니
+*   [X] 주문 목록
+*   [X] 결제
+
+    
 
     
 ## Authors
