@@ -8,6 +8,11 @@
  
 </p>
 
+## SubKing ProJect
+> 커스텀버거 개발 프로젝트
+> 개발기간 : 2024.10.07 ~ 2024.10.14
+
+
 ## What is? 
 
 -   SUBWAY + BURGERKING 에서 영감을 받아 제작한 브랜드
@@ -21,17 +26,21 @@
 
 <div align="left">
   <h2>📚 STACKS</h2>
+ 
+ **Development** 
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">    
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">   
-  <br>
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">  
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">   
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-  <br>
-  <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <br>
+ **Enviroment**
+  <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> 
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">   
+ 
+  
   
 </div>
 
@@ -42,7 +51,7 @@
 
 
 
-## Key Features
+## Composition
 > **네이버 회원가입을 참고해서 제작.**
 
 > ![회원가입 페이지](https://github.com/user-attachments/assets/1b0b527a-9a7e-4024-856a-6b0c3a4edd74)
@@ -82,36 +91,6 @@
 <img src = "https://github.com/user-attachments/assets/49fe2a8c-1cef-4df1-8bf0-4d96deb0e454"  width="700" height="400"/>
 
 
-## Repository Structure
-
-```sh
-└──Project
-    ├─README.md
-    ├─.gitignore
-    ├─src
-    │  ├─main
-    │  │  ├─java
-    │  │  │  ├─...
-    │  │  │  └─packages
-    │  │  ├─resource
-    │  │  └─webapp
-    │  │      ├─META-INF
-    │  │      ├─static
-    │  │      └─WEB-INF
-    │  │          ├─lib
-    │  │          └─views
-    │  └─test
-    │      └─java
-    └─pom.xml
-```
-
-- 위와 같은 폴더 구조 텍스트는 => [폴더 트리 구조 생성 사이트](https://ascii-tree-generator.com/) 를 활용하거나
-- 또는 윈도우 환경에서는 _`cmd /c tree`_ 명령어를 해당 폴더에서 실행해보세요
-
-## Download
-
-* 릴리즈 링크 있으면 첨부 가능
-* [download]() the latest installable version of for Windows, macOS and Linux.
 
 ## ToDo
 
@@ -122,19 +101,10 @@
 *   [ ] Multi-language Support
     -   [ ] English
 
-## FAQ
-
-<details>
-  <summary>자주 묻는 질문?</summary>
-  <dl>
-  <dt>질문 1</dt>
-  <dd>답변 1</dd>
-  </dl>
-</details>
     
 ## Authors
 
-* GitHub [@깃허브 프로필 페이지](https://github.com/SYacuCLoud) | Twitter [@SNS 등](https://twitter.com/)
+* GitHub [@깃허브 프로필 페이지](https://github.com/Seodongchann)
 
 > 다음과 같은 profile을 사용하고자 한다면 아래 링크들을 활용해보세요
 >
