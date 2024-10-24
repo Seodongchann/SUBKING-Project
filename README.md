@@ -80,10 +80,9 @@
 
 > [!TIP]
 > 
-> [KAKAO DEVELOPER](https://developers.kakao.com/)
+> 카카오톡 연동이 궁금하다면 => [KAKAO DEVELOPER](https://developers.kakao.com/)
 >
 
-> 도표 생성 문법이 어렵다면 생성기를 활용하세요 => [MD Table Generator](https://www.tablesgenerator.com/markdown_tables)
 
 ## How To Use / Development setup
 
