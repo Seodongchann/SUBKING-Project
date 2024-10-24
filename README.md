@@ -36,6 +36,7 @@
 - [이강호](https://github.com/LeeKangHo1)
 - [박주용](https://github.com/cfyle)
 
+---
 
 ## Key Features
 > **네이버 회원가입을 참고해서 제작.**
