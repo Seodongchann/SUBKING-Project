@@ -70,11 +70,13 @@
 
 ## Key Features
 > 네이버 회원가입을 참고해서 제작.
- ![회원가입 페이지](https://github.com/user-attachments/assets/1b0b527a-9a7e-4024-856a-6b0c3a4edd74)
+
+> ![회원가입 페이지](https://github.com/user-attachments/assets/1b0b527a-9a7e-4024-856a-6b0c3a4edd74)
 
 
 > 카카오톡으로 로그인연동은 되지않지만 그 전까지 구현 완료.
- ![카카오 로그인](https://github.com/user-attachments/assets/0163f9fd-4eda-486e-b998-cc5d012e2256)
+
+> ![카카오 로그인](https://github.com/user-attachments/assets/0163f9fd-4eda-486e-b998-cc5d012e2256)
 
 > [!TIP]
 > 헤딩, 단락, 링크 및 도표, 목록, 인용 코드, 체크박스 작성법 등을 알아보세요
