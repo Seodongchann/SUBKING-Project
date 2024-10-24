@@ -79,11 +79,9 @@
 > ![카카오 로그인](https://github.com/user-attachments/assets/0163f9fd-4eda-486e-b998-cc5d012e2256)
 
 > [!TIP]
-> 헤딩, 단락, 링크 및 도표, 목록, 인용 코드, 체크박스 작성법 등을 알아보세요
 > 
-> [Markdown 기분 문법 알아보기](https://www.markdownguide.org/basic-syntax/)
+> [KAKAO DEVELOPER](https://developers.kakao.com/)
 >
-> [Markdown Github 확장 문법 알아보기](https://docs.github.com/ko/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 > 도표 생성 문법이 어렵다면 생성기를 활용하세요 => [MD Table Generator](https://www.tablesgenerator.com/markdown_tables)
 
