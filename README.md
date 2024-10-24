@@ -66,7 +66,8 @@
 
 **SpreadSheet**
 - 데이터베이스 ERD 설정 전 필요한 테이블, 속성 값, PK, FK 등을 작성하며 추가/삭제
-[user_order]<img src = https://github.com/user-attachments/assets/86223cf0-a47c-4d05-bd7c-f2db46ecdbc7>
+[user_order]
+<img src = https://github.com/user-attachments/assets/86223cf0-a47c-4d05-bd7c-f2db46ecdbc7>
 
 
 > To clone and run this application,
