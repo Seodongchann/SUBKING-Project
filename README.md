@@ -1,4 +1,4 @@
-<img src = "https://github.com/user-attachments/assets/519acc0d-2b68-4410-bf15-05df2d098d6c">
+<img src = "https://github.com/user-attachments/assets/519acc0d-2b68-4410-bf15-05df2d098d6c" width="200" height="400"/>
 <h1 align="center">
   SUBKING PROJECT
 </h1>
