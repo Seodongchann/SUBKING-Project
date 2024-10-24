@@ -36,7 +36,7 @@
 - [이강호](https://github.com/LeeKangHo1)
 - [박주용](https://github.com/cfyle)
 
----
+
 
 ## Key Features
 > **네이버 회원가입을 참고해서 제작.**
@@ -56,8 +56,18 @@
 
 ## How To Use / Development setup
 
-* 사용 환경과 사용법 설명
-* 또는 개발을 위한 개발환경 구축 설명하기
+**DataBase** 
+   1. 데이터베이스 서버 구축
+　 2. 권한 설정 
+   3. 테이블 정의 : 기본키(Pk), 외래키(Fk), 널 허용 여부(Null/Not Null), 자동 증가(Auto Increment)설정을 포함한 테이블 정의.
+   4. 테이블 생성 : Cart, Cartlist, Cusom, Ingredients, Menu 등 주요 테이블 생성 
+   5. ERD 활용   : 엔터티-관계 다이어그램을 기반으로 테이블 간의 외래키 관계를 검증하여 데이터베이스의 무결성 유지 
+   6. Mapper 작성 및 실시간 입출력 테스트
+
+**SpreadSheet**
+- 데이터베이스 ERD 설정 전 필요한 테이블, 속성 값, PK, FK 등을 작성하며 추가/삭제
+[user_order](https://github.com/user-attachments/assets/86223cf0-a47c-4d05-bd7c-f2db46ecdbc7)
+
 
 > To clone and run this application,
 > you'll need [Git](https://git-scm.com)
