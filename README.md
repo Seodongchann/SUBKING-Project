@@ -17,8 +17,8 @@
 ## 역할
 ![역할분담](https://github.com/user-attachments/assets/1665f9a3-6bd3-4bc5-918f-b0df5a54263d)
 
+<div align="left">
   <h2>📚 STACKS</h2>
-<div align="center">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">    
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">   
