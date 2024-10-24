@@ -35,15 +35,15 @@
 
 ## Contents
 
-[cart 이동하기](https://github.com/Seodongchann/SUBKING-Project/tree/main/java/kr/co/subking/cart)
-[custom 이동하기](https://github.com/Seodongchann/SUBKING-Project/tree/main/java/kr/co/subking/custom)
-[ingredients 이동하기](https://github.com/Seodongchann/SUBKING-Project/tree/main/java/kr/co/subking/ingredients)
-[login 이동하기](https://github.com/Seodongchann/SUBKING-Project/tree/main/java/kr/co/subking/login)
-[menu 이동하기](https://github.com/Seodongchann/SUBKING-Project/tree/main/java/kr/co/subking/menu)
-[orders 이동하기](https://github.com/Seodongchann/SUBKING-Project/tree/main/java/kr/co/subking/orders)
-[other 이동하기](https://github.com/Seodongchann/SUBKING-Project/tree/main/java/kr/co/subking/other)
-[sales 이동하기](https://github.com/Seodongchann/SUBKING-Project/tree/main/java/kr/co/subking/sales)
-[user 이동하기](https://github.com/Seodongchann/SUBKING-Project/tree/main/java/kr/co/subking/user)
+[cart](https://github.com/Seodongchann/SUBKING-Project/tree/main/java/kr/co/subking/cart)
+[custom](https://github.com/Seodongchann/SUBKING-Project/tree/main/java/kr/co/subking/custom)
+[ingredients](https://github.com/Seodongchann/SUBKING-Project/tree/main/java/kr/co/subking/ingredients)
+[login](https://github.com/Seodongchann/SUBKING-Project/tree/main/java/kr/co/subking/login)
+[menu](https://github.com/Seodongchann/SUBKING-Project/tree/main/java/kr/co/subking/menu)
+[orders](https://github.com/Seodongchann/SUBKING-Project/tree/main/java/kr/co/subking/orders)
+[other](https://github.com/Seodongchann/SUBKING-Project/tree/main/java/kr/co/subking/other)
+[sales](https://github.com/Seodongchann/SUBKING-Project/tree/main/java/kr/co/subking/sales)
+[user](https://github.com/Seodongchann/SUBKING-Project/tree/main/java/kr/co/subking/user)
 
 
 </p>
