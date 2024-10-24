@@ -1,4 +1,4 @@
-![logo](https://github.com/user-attachments/assets/519acc0d-2b68-4410-bf15-05df2d098d6c)
+<img srg = "https://github.com/user-attachments/assets/519acc0d-2b68-4410-bf15-05df2d098d6c">
 <h1 align="center">
   SUBKING PROJECT
 </h1>
@@ -33,36 +33,6 @@
   
 </div>
 
-## Contents
-
-- [cart](https://github.com/Seodongchann/SUBKING-Project/tree/main/java/kr/co/subking/cart)
-
-
-- [custom](https://github.com/Seodongchann/SUBKING-Project/tree/main/java/kr/co/subking/custom)
-
-
-- [ingredients](https://github.com/Seodongchann/SUBKING-Project/tree/main/java/kr/co/subking/ingredients)
-
-
-- [login](https://github.com/Seodongchann/SUBKING-Project/tree/main/java/kr/co/subking/login)
-
-
-- [menu](https://github.com/Seodongchann/SUBKING-Project/tree/main/java/kr/co/subking/menu)
-
-
-- [orders](https://github.com/Seodongchann/SUBKING-Project/tree/main/java/kr/co/subking/orders)
-
-
-- [other](https://github.com/Seodongchann/SUBKING-Project/tree/main/java/kr/co/subking/other)
-
-
-- [sales](https://github.com/Seodongchann/SUBKING-Project/tree/main/java/kr/co/subking/sales)
-
-
-- [user](https://github.com/Seodongchann/SUBKING-Project/tree/main/java/kr/co/subking/user)
-
-
-</p>
 
 ## What is?
 
