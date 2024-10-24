@@ -13,7 +13,9 @@
 -   SUBWAY + BURGERKING 에서 영감을 받아 제작한 브랜드
 
 ## Role
-![역할분담](https://github.com/user-attachments/assets/d008f084-6ead-4e12-b18d-cdf27375025f) ![image](https://github.com/user-attachments/assets/cefa3ac9-ee0d-4ba7-9c81-d4e2577eadf6)
+![역할분담](https://github.com/user-attachments/assets/d008f084-6ead-4e12-b18d-cdf27375025f) 
+<br>
+![image](https://github.com/user-attachments/assets/cefa3ac9-ee0d-4ba7-9c81-d4e2577eadf6)
 
 
 
