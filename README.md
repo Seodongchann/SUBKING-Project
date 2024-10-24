@@ -75,7 +75,7 @@
 
 **PPT**
 - 웹페이지 구상, 방향성 설정 
-![image](https://github.com/user-attachments/assets/49fe2a8c-1cef-4df1-8bf0-4d96deb0e454)
+<img src = "https://github.com/user-attachments/assets/49fe2a8c-1cef-4df1-8bf0-4d96deb0e454"  width="700" height="400"/>
 
 
 ## Repository Structure
