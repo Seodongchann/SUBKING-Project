@@ -6,8 +6,8 @@
 <p align="center">
 
  
-</p>
 ---
+</p>
 ## What is?
 
 -   SUBWAY + BURGERKING 에서 영감을 받아 제작한 브랜드
