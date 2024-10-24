@@ -17,22 +17,20 @@
 ## 역할
 ![역할분담](https://github.com/user-attachments/assets/1665f9a3-6bd3-4bc5-918f-b0df5a54263d)
 
-<p align="center">
+<div align="center">
   <h2>📚 STACKS</h2>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">    <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-  <br>
-   <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
-    <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">    
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">   
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">   
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+  <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   
-</p>
-<a href="https://flat.badgen.net">
-  <img src="https://flat.badgen.net/badge/%EB%A7%81%ED%81%AC/%EC%9D%B4%EB%8F%99/">
-</a>
-<a href="https://shields.io/badges/static-badge">
-  <img alt="Static Badge" src="https://img.shields.io/badge/%EB%A7%81%ED%81%AC-%EC%9D%B4%EB%8F%99-red">
-</a>
+</div>
+
+
 
 [![링크 - 클릭](https://img.shields.io/badge/링크-클릭-2ea44f)](https://michaelcurrin.github.io/badge-generator/#/generic)
 [![링크](https://img.shields.io/badge/%EB%A7%81%ED%81%AC-%ED%81%B4%EB%A6%AD-green?style=flat)](https://badgesgenerator.com/)
